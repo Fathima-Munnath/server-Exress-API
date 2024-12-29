@@ -1,0 +1,66 @@
+const movies = [
+    {
+      id: 1,
+      title: "The Shawshank Redemption",
+      genre: "Drama",
+      releaseYear: 1994,
+      rating: 9.3,
+    },
+    {
+      id: 2,
+      title: "The Godfather",
+      genre: "Crime",
+      releaseYear: 1972,
+      rating: 9.2,
+    },
+    {
+      id: 3,
+      title: "The Dark Knight",
+      genre: "Action",
+      releaseYear: 2008,
+      rating: 9.0,
+    },
+    {
+      id: 4,
+      title: "Pulp Fiction",
+      genre: "Crime",
+      releaseYear: 1994,
+      rating: 8.9,
+    },
+    {
+      id: 5,
+      title: "Forrest Gump",
+      genre: "Drama",
+      releaseYear: 1994,
+      rating: 8.8,
+    },
+    {
+      id: 6,
+      title: "Inception",
+      genre: "Sci-Fi",
+      releaseYear: 2010,
+      rating: 8.8,
+    },
+    {
+      id: 7,
+      title: "Fight Club",
+      genre: "Drama",
+      releaseYear: 1999,
+      rating: 8.8,
+    },
+    {
+      id: 8,
+      title: "The Matrix",
+      genre: "Sci-Fi",
+      releaseYear: 1999,
+      rating: 8.7,
+    },
+    {
+      id: 9,
+      title: "Goodfellas",
+      genre: "Crime",
+      releaseYear: 1990,
+      rating: 8.7,
+    },
+  ];
+ module.exports = movies  
